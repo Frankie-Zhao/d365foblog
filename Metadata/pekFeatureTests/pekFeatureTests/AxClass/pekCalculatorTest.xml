@@ -19,6 +19,7 @@ public final class pekCalculatorTest extends SysTestCase
     /// <summary>
     /// Test the sum of two integers
     /// </summary>
+    /// Changes to test the version control
     [SysTestCheckInTest]
     public void testSumIntegers()
     {
